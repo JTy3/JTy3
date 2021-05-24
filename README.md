@@ -1,5 +1,5 @@
 - 👋 GDay, I’m @JTy3 working from home in Australia!
-- 👀 I am interested in Web Development, Reactive Frameworks (Vue and React), AWS and GCloud
+- 👀 I am interested in Web Development, Reactive Frameworks (Vue and React), AWS and DevOps
 - 🌱 I am currently learning Swift, Kotlin and Sitecore
 
 <!---
