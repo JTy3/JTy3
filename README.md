@@ -1,5 +1,5 @@
 - 👋 GDay, I’m @JTy3 from Australia!
-- 👀 Currently building/experimenting with Cloudflare, ClickHouse, Hardware and Claude
+- 👀 Currently building/experimenting with Cloudflare, Clickhouse and Rust
 - 🤖 Why spend 5 minutes doing a task manually, when you could spend 5 hours automating it?
 - 📍 Living and working in Sydney, Australia 🦘
 
